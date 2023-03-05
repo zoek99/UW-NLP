@@ -1,0 +1,13 @@
+build_NB1.sh
+
+q2/model_file
+q2/sys_output
+q2/acc_file
+
+build_NB2.sh
+q3/model_file
+q3/sys_output
+q3/acc_file
+
+
+
