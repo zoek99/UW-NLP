@@ -1,0 +1,8 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Project-specific build output directories
+/out/
